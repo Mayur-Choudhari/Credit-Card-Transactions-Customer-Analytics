@@ -64,5 +64,3 @@ For any questions or suggestions, feel free to reach out:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-choudhari-5b1a58286/)
 
 
-
-![Logo]https://github.com/Mayur-Choudhari/Credit-Card-Transactions-Customer-Analytics/blob/main/Credit%20Card%20Transaction%20Report.pdf
